@@ -1,0 +1,1 @@
+Para jogar abra o arquivo "Play" dentro da pasta jogo.
